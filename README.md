@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pulkit102
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on frontend projects
 - 📫 can reach me on my email "pulkit22shiv@gmail.com"
 
